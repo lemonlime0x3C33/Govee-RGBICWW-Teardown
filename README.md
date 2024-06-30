@@ -11,7 +11,7 @@
  | |  '  `-' /  | |  | |  | | '  `-' /  | |  | |   | |   | |   | |  | |  | | '  `-' / 
 (___)  `.__.'  (___)(___)(___) `.__.'  (___)(___) (___) (___) (___)(___)(___) `.__.'  
                                                                                       
-### Govee RGBICWW Teardown ###
+### Govee RGBICWW Teardown ####
 
 For detailed instructions on device teardown and hardware interfaces please see the
 following posts on my website:
